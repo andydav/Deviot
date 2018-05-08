@@ -1,6 +1,6 @@
 # LANGUAGE: Russian (Russian)
 # Rus  translations for Deviot Plugin.
-# Translators: GEPD, AndyD
+# Translators: AndyD
 # Copyright (C) 2015-2016 GEPD
 # This file is distributed under the same license as the Deviot Plugin.
 #
@@ -168,6 +168,9 @@ msgstr "Нет СОМ порта или mDNS сервисов"
 msgid "menu_add_ip"
 msgstr "Добавить IP-адрес вручную"
 
+msgid "menu_not_used_port"
+msgstr "Не используется"
+
 msgid "menu_monitor_serial"
 msgstr "Monitor Serial"
 
@@ -265,7 +268,7 @@ msgid "menu_languages"
 msgstr "Язык программы (Languages)"
 
 msgid "menu_donate_deviot"
-msgstr "Вы можете помоч проекту Deviot"
+msgstr "❤ Вы можете помоч проекту Deviot"
 
 msgid "menu_about"
 msgstr "Справка"
@@ -300,8 +303,17 @@ msgstr "Выберите Плату из списка"
 msgid "select_env_list"
 msgstr "Выберите среду из списка"
 
+msgid "port_list"
+msgstr "Список портов"
+
 msgid "select_port_list"
 msgstr "Выберите порт из списка"
+
+msgid "not_used_subtitle"
+msgstr "Avoids the comprobation of the serial port"
+
+msgid "add_ip_subtitle"
+msgstr "IP or domain"
 
 msgid "ota_error_platform"
 msgstr "OTA Загрузка доступна только для платформы Espressif(ESP8266).Выберите другой СОМ порт или измените текущую среду"
